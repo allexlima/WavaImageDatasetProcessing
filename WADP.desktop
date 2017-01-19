@@ -1,0 +1,10 @@
+[Desktop Entry]
+
+Version=1.0
+Name=Wava Image Dataset Processing - WADP
+Comment=This software was designed to improve the time of manual digital images processing of big image datasets
+Terminal=false
+Categories=Education
+Type=Application
+Exec=python /opt/WADP/app.py
+Icon=/opt/WADP/img/pinwheel.png
