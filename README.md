@@ -61,3 +61,5 @@ This software was designed to improve the time of manual digital images processi
         $ python app.py
         ```
             
+Developed by [Allex Lima](http://allexlima.com) with ❤️ using [Python 2.7.x](https://www.python.org/) and [PyQt4](https://www.riverbankcomputing.com/software/pyqt/download)! 
+###### Copyright © 2016 [WavaImageDatasetProcessing](https://github.com/allexlima/WavaImageDatasetProcessing.git) - Licensed by MIT LICENSE.
